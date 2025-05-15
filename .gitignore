@@ -1,2 +1,4 @@
 .vscode
 mypy.ini
+venv
+tasks.db
